@@ -3,18 +3,22 @@ import LinkCardCircle from "@/components/LinkCardCircle";
 
 const cards = [
   {
+    link: "https://t.me/SPSNCTO",
     title: "telegram",
     icon: "Telegram",
   },
   {
+    link: "https://x.com/spsntoken",
     title: "x",
     icon: "X",
   },
   {
+    link: "https://www.instagram.com/spsntoken",
     title: "Instagram",
     icon: "Instagram",
   },
   {
+    link: "https://www.youtube.com/@spsntoken",
     title: "Youtube",
     icon: "Youtube",
   },
