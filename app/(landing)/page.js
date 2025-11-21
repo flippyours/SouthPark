@@ -72,6 +72,7 @@ export default function Home() {
             />
           </div>
           <div className="mt-5">
+            <p className="font-stopbuck text-2xl text-black">Sucks now. Pumps later!</p>
           </div>
         </div>
         {/* <WallOfLove /> */}

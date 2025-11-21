@@ -4,10 +4,13 @@ import Flag from "@/components/Flag";
 const exchanges = [
   {
     flag: "PumpFun",
+    title: "PUMP.FUN",
+    link: "https://dexscreener.com/solana/Sg4k4iFaEeqhv5866cQmsFTMhRx8sVCPAq2j8Xcpump",
   },
   // {
   //   flag: "Binance",
   //   title: "Binance",
+  //   link: "https://pump.fun/coin/Sg4k4iFaEeqhv5866cQmsFTMhRx8sVCPAq2j8Xcpump",
   // },
 ];
 
