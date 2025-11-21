@@ -77,8 +77,8 @@ const About = () => {
 
         <div className="mt-10 font-mono text-lg sm:text-2xl text-[#33271e] tracking-widest text-center">
           <p>
-            The show may or may not have fallen off,{" "}
-            <span className="text-3xl font-bold">but the meme lives forever</span>
+            The show may or may not have{" "}
+            <span className="text-3xl font-bold">fallen off,</span>
           </p>
 
           <p className="text-4xl p-10">
