@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Dúi (aka Nguyen Van Dui) | Solana",
-  description: "Dui is forever on Solana",
+  title: "$SPSN (South Park Sucks Now) | Solana",
+  description: "South Park Sucks Now",
 };
 
 export default function RootLayout({ children }) {
